@@ -11,5 +11,5 @@ Algo 2; SOROS FUND MANAGEMENT LLC; Algo 1; PAULSON & CO.INC.`
 
 The Sharpe ratios of the portfolios provided show that 4 of the 7 portfolios perform well. The PAULSON & CO.INC. portfolio is the most simmilar portfolio to the S&P 500 portfolio; but both of these portfolios perform the worst among all the portfolios.
 
-## CCustom Portfolio:
+## Custom Portfolio:
 We first clean and combine the data from the three protfolios that were provided: GOOG, AAPL, COST. My custom portfolio was crated using ewual weights of 1/3 from each of the given stock data. The risk analysis of the custom portfolio that we crated showed that all the portfolios have a negative sharpe ratio. However the protfolio that performs the worst in this custom portfolio is the Costco portfolio.
